@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Containers and Forms</title>
+  </head>
+  <body>
+    <nav>
+      <ul>
+        <li>
+          <a href="index.html">Home</a>
+        </li>
+        <li>
+          <a href="moreforms.html">More Forms</a>
+        </li>
+      </ul>
+    </nav>
+    <h1>Containers and Forms</h1>
+    <form action="https://wp.zybooks.com/form-viewer.php" method="post">
+      <div>
+        <label for="favorite-snack">Favorite Snack</label>
+        <input
+          type="text"
+          name="favorite-snack"
+          id="Favorite Snack"
+          placeholder="Snack"
+          required
+        />
+      </div>
+
+      <div>
+        <label for="least-fav-snack">Least Favorite Snack</label>
+        <input
+          type="text"
+          name="least-fav-snack"
+          id="Least Favorite Snack"
+          value="Harry Potter jelly beans"
+        />
+      </div>
+
+      <div>
+        <label for="explain">Explain Your Choices</label>
+        <textarea name="explain" id="explain"></textarea>
+      </div>
+
+      <div>
+        <label for="snack-color-mood">Snack Color Mood</label>
+        <input type="color" name="snack-color-mood" id="snack-color-mood" />
+      </div>
+
+      <div>
+        <label for="snack-pic">Snack Picture</label>
+        <input type="file" accept="image/" />
+      </div>
+
+      <input type="submit" value="submit" />
+    </form>
+  </body>
+</html>

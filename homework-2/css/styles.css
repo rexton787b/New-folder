@@ -1,0 +1,19 @@
+.hero{
+    width: 500px
+    ;
+    justify-content: center;
+}
+.nav{
+    background-color: aqua;
+    height: 20px;
+    text-decoration: none;
+}
+.text{
+    width: 30px;
+    height: auto;
+    align-items: center;}
+
+.pics{
+    align-items: center;
+
+}

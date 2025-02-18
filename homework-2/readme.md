@@ -10,4 +10,4 @@ I had a **terrible** time with this. It just wont listen to the css page for som
 
 ### Live Link
 
-[Blog Page](https://{rexton787b}.github.io/New-folder/homework-2)
+[Blog Page] https://github.com/rexton787b/New-folder/tree/main/homework-2

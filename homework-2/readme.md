@@ -10,4 +10,4 @@ Brief description of understanding. Use any combination of markdown techniques.
 
 ### Live Link
 
-[Blog Page](https://{rexton787b}.github.io/{reponame}/homework-2)
+[Blog Page](https://{rexton787b}.github.io/New-folder/homework-2)

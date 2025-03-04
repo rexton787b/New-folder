@@ -26,3 +26,5 @@ for (let i = 0; i < fruit.length; i++) {
     ulRef.innerHTML += "<li class='item'>"+ fruit + "</li>"
     
 }
+
+titleRef.style.backgroundColor = "red"

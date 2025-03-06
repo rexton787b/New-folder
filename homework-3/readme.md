@@ -1,0 +1,1 @@
+assignment take aways: this assignment taught me to pay very close attention to my code. A single wrong letter in the js file is enough to mess the whole thing up. It was also very frustrating to have 2 identical js files and one would work and one wouldnt.

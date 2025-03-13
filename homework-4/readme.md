@@ -10,4 +10,4 @@ i **Really** dont understand this js stuff. i try to follow along in class but i
 
 ### Live Link
 
-[Blog Page](https://{username}.github.io/{reponame}/homework-2)
+[Blog Page]https://github.com/rexton787b/New-folder/tree/main/homework-4

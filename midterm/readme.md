@@ -2,4 +2,4 @@
 
 ### Live Link
 
-[Home](https://{username}.github.io/{reponame}/midterm)
+[Home]https://github.com/rexton787b/New-folder/tree/main/midterm
